@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThalesDotNetTest", "ThalesDotNetTest.csproj", "{DA599CD4-0138-4CEC-ABD3-19F6E8CF323D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThalesTesting", "..\ThalesTesting\ThalesTesting.csproj", "{6F8B2DDA-FFCF-4E27-B3E6-66D561213BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA599CD4-0138-4CEC-ABD3-19F6E8CF323D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA599CD4-0138-4CEC-ABD3-19F6E8CF323D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA599CD4-0138-4CEC-ABD3-19F6E8CF323D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA599CD4-0138-4CEC-ABD3-19F6E8CF323D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8B2DDA-FFCF-4E27-B3E6-66D561213BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8B2DDA-FFCF-4E27-B3E6-66D561213BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8B2DDA-FFCF-4E27-B3E6-66D561213BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8B2DDA-FFCF-4E27-B3E6-66D561213BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C39CA8-0330-4D7A-8A30-63353131AFDF}
+	EndGlobalSection
+EndGlobal
